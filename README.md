@@ -1,17 +1,17 @@
 Project ini merupakan aplikasi web berbasis Laravel yang bernama "TaskSprint". Website ini dibuat untuk membantu mahasiswa dalam mengelola dan memantau tugas kuliah dengan mudah dan efisien.
 Project ini dibuat untuk menyelesaikan UTS mata kuliah Pemrograman Website menggunakan Laravel, Blade Template, dan Tailwind CSS.
 
->> Web ini memiliki 4 halaman utama, yaitu:
- 🔐 Autentikasi Login — Mahasiswa login untuk mengakses dashboard pribadi.
- 📊 Dashboard — Menampilkan total tugas, tugas selesai, dan tugas yang belum diselesaikan dalam bentuk statistik dan grafik bar.
- 📝 Pengelolaan Tugas — Daftar tugas yang memuat mata kuliah, deskripsi, deadline, dan status penyelesaian.
- 👤 Profile — Menampilkan identitas mahasiswa (nama, NIM, prodi, fakultas, dan foto profil).
+Web ini memiliki 4 halaman utama, yaitu:
+- Autentikasi Login — Mahasiswa login untuk mengakses dashboard pribadi.
+- Dashboard — Menampilkan total tugas, tugas selesai, dan tugas yang belum diselesaikan dalam bentuk statistik dan grafik bar.
+- Pengelolaan Tugas — Daftar tugas yang memuat mata kuliah, deskripsi, deadline, dan status penyelesaian.
+- Profile — Menampilkan identitas mahasiswa (nama, NIM, prodi, fakultas, dan foto profil).
 
->> Teknologi yang digunakan, yaitu:
-  - Laravel 12.34
-  - PHP 8.3
-  - Blade Template Engine
-  - Tailwind CSS
+Teknologi yang digunakan, yaitu:
+- Laravel 12.34
+- PHP 8.3
+- Blade Template Engine
+- Tailwind CSS
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
